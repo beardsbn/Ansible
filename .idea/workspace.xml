@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e58416a-d172-42ae-81bd-320c39a105f0" name="Changes" comment="1st commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosts.ini" beforeDir="false" afterPath="$PROJECT_DIR$/hosts.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +24,8 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/beardsbn/Ansible.git",
-    "accountId": "4d7639bd-b022-4f27-b2f8-16771d160a92"
+    "url": "https://github.com/beardsbn/Ansible1.git",
+    "accountId": "cc08185f-a465-4251-b721-d26e9926a21e"
   }
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
@@ -142,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794675560097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1794676031636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794676031636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1794676292007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794676292007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
