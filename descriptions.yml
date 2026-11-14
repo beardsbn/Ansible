@@ -1,0 +1,13 @@
+---
+- hosts: routers
+  gather_facts: false
+  become: yes
+  become_method: enable
+
+  tasks:
+    - name: interface descriptions update
+
+      cisco.ios.ios_config:
+        lines:
+          - description: To_Management_Switch
+        parents: "interface GigabitEthernet0/0"
